@@ -1,5 +1,7 @@
 WeatherPy/api_keys.py
-VacationPy/api_keys.py	
+VacationPy/api_keys.py
+api_keys.py
+*api_keys
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
